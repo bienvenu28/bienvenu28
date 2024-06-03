@@ -1,5 +1,4 @@
-## Hi there 👋, i'm Bienvenu Kadiebwe 
-### 💬 About me 
+## Hi there 👋, i'm Bienvenu
 
 ### 💻Programming languages
 - [![Java](https://img.shields.io/badge/Java-8-blue.svg)](https://www.java.com/) [![Java](https://img.shields.io/badge/Java-11-blue.svg)](https://www.java.com/) [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com/) ✨
